@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.idea
+.kotlin
+.DS_Store
+build
+captures
+local.properties
+xcuserdata
+*.xcworkspace
+Pods
+.cxx
+*.apk
+*.aab
+*.ipa
+kotlin-js-store
+.gradle-kotlin-dsl
